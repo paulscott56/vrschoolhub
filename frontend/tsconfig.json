@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./target/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "target": "es2017",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "declaration": true,
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true
+    }
+}
